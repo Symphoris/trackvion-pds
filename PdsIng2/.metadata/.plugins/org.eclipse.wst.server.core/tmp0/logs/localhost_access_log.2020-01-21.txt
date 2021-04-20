@@ -1,0 +1,12 @@
+127.0.0.1 - - [21/Jan/2020:20:13:43 +0100] "GET / HTTP/1.1" 404 996
+127.0.0.1 - - [21/Jan/2020:20:13:44 +0100] "GET /tv/ HTTP/1.1" 200 1049
+127.0.0.1 - - [21/Jan/2020:20:13:44 +0100] "GET /tv/common/styleMain.css HTTP/1.1" 200 3416
+127.0.0.1 - - [21/Jan/2020:20:13:44 +0100] "GET /tv/common/styleMap.css HTTP/1.1" 200 1683
+127.0.0.1 - - [21/Jan/2020:20:13:44 +0100] "GET /tv/script/toggleMenu.js HTTP/1.1" 200 191
+127.0.0.1 - - [21/Jan/2020:20:13:44 +0100] "GET /tv/script/includeHTML.js HTTP/1.1" 200 974
+127.0.0.1 - - [21/Jan/2020:20:13:44 +0100] "GET /tv/pictures/home.gif HTTP/1.1" 200 1833218
+127.0.0.1 - - [21/Jan/2020:20:13:44 +0100] "GET /tv/common/menuNotConnected.html HTTP/1.1" 200 352
+127.0.0.1 - - [21/Jan/2020:20:13:44 +0100] "GET /tv/common/footer.html HTTP/1.1" 200 109
+127.0.0.1 - - [21/Jan/2020:20:13:47 +0100] "GET /tv/connect HTTP/1.1" 200 1854
+127.0.0.1 - - [21/Jan/2020:20:14:15 +0100] "GET /tv/candidate HTTP/1.1" 200 2584
+127.0.0.1 - - [21/Jan/2020:20:14:53 +0100] "POST /tv/candidate HTTP/1.1" 200 1969

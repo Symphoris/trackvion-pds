@@ -1,0 +1,7 @@
+1582126277626	Rename field 'etatSante'
+1582126307295	Rename field 'sportif'
+1582126324659	Rename field 'allergie'
+1582126532828	Rename method 'getEtatSante'
+1582126589137	Rename method 'setEtatSante'
+1582282924985	Rename type 'Profil'
+1582365406516	Rename field 'nom'
